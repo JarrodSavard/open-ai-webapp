@@ -1,0 +1,12 @@
+.wrapper {
+	background-color: #313131;
+	color: #fff;
+	padding: 2rem;
+	text-align: center;
+	font-size: 1.25rem;
+}
+
+.aTag {
+	color: #4ee1eb;
+	text-decoration: none;
+}

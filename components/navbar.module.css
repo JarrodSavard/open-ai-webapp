@@ -1,0 +1,26 @@
+.wrapper {
+	background-color: #313131;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+}
+.container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.logo {
+	font-size: 1.5rem;
+	font-weight: bold;
+}
+.menu {
+	margin-right: 3rem;
+}
+.menu > * {
+	padding: 0.5rem 1rem;
+	font-size: 1.25rem;
+}
+.menu a {
+	color: #fff;
+	text-decoration: none;
+}

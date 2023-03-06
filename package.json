@@ -2,6 +2,7 @@
   "name": "example-2--online-open-ai-model",
   "version": "0.1.0",
   "private": true,
+  "author": "Jarrod Savard",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
